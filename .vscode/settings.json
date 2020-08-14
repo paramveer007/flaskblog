@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "flask_venv\\Scripts\\python.exe"
+    
+}
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ]
+}
